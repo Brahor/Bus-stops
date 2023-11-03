@@ -1,9 +1,5 @@
 # Assignment 14
 
-#Given a dictionary where keys are the names of bus stops and values are lists of timestamps (in minutes past 8:00 a.m.)that the bus arrives at that stop, 
-#write a function that takes a bus stop name and a time, 
-#and returns the number of minutes until the bus arrives at that stop. If the bus does not come again on that day, return -1. 
-
 #Task 1
 def jaccard_similarity(setA, setB):
     
